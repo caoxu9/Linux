@@ -1,5 +1,19 @@
 #!/usr/bin/env python
 
+
+
+"""
+
+1、本脚本采集服务器相关信息，ansible版本2.8.2
+2、对ansible二次开发
+3、详情参考ansible官网，2.8.x版本的官方api有问题，请自行修改
+
+"""
+
+
+
+
+
 import json
 import shutil
 from ansible.module_utils.common.collections import ImmutableDict
