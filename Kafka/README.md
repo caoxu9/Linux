@@ -1,0 +1,1 @@
+### 使用filebeat采集nginx的json日志,将日志传输Kafka,写程序将Kafka消息解析传入Mysql
